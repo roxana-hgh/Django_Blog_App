@@ -17,11 +17,12 @@ A Django blogging app It has [features](#features) of a standard blogging platfo
 
 * User authentication 
 * User Login
-* Author Password Reset
+* User Password Reset
+* Add New Post
+* Post editing and deleting for Author
 * Category List
 * Category Articles List
 * Post Like
-* Post editing and deleting for Author
 * Comments for Posts
 * Articles Search
 * Pagination
