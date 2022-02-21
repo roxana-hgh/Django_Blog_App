@@ -74,21 +74,36 @@ A Django blogging app It has [features](#features) of a standard blogging platfo
 * python 3+
 
 1) install Requirements
+
  ```  $ pip install django   ```
  
  ```  $ pip install pillow   ```
  
  ```  $ pip install django-ckeditor  ```
+ 
  NOTE: you can use a virtual envirment for above packages
  
- 2) cd to /blog_v2/...
+ 2) cd to /blog_v2/ folder where manage.py file is exist
+ 
  3) Run this commands
+ 
  ```  $ python manage.py makemigrations   ```
+ 
+ 
+ ``` python manage.py makemigrations Blog ```
+ 
  
  ```  $ python manage.py migrate   ```
  
- 4)Run the app
+ 
+ ``` python manage.py createsuperuser ```
+ 
+ 
+ 4) Run the app
+ 
   ```  $ python manage.py runserver   ```
+  
+  ##### You Are All Setup. Enjoy :)
 
  
  
