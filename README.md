@@ -43,19 +43,29 @@ A Django blogging app It has [features](#features) of a standard blogging platfo
 
 ## Screenshots
 
-* Main Page
+* ### Main Page
+
+![alt text](https://github.com/roxana-hgh/Django_Blog_App/blob/2f8698c2f9186b9b17df8402ace67f57430adb40/Screenshots/main_page.png)
 
 
-* Post Details
+* ### Post Details
+
+![alt text](https://github.com/roxana-hgh/Django_Blog_App/blob/2f8698c2f9186b9b17df8402ace67f57430adb40/Screenshots/page_detail.png)
 
 
-* User Profile
+* ### User Profile
+
+![alt text](https://github.com/roxana-hgh/Django_Blog_App/blob/2f8698c2f9186b9b17df8402ace67f57430adb40/Screenshots/profile_page.png)
 
 
-* Profile information Editing
+* ### Profile information Editing
+
+![alt text](https://github.com/roxana-hgh/Django_Blog_App/blob/2f8698c2f9186b9b17df8402ace67f57430adb40/Screenshots/profile_editting.png)
 
 
-* Add new post
+* ### Add new post
 
+![alt text](https://github.com/roxana-hgh/Django_Blog_App/blob/2f8698c2f9186b9b17df8402ace67f57430adb40/Screenshots/add_new_post.png)
 
+## Setup
 
